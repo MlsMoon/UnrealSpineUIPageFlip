@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{26771BAD-4AE7-F55E-597F-64ABDFD6F1AA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SpineUIPageFlip",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": true
+		}
+	]
+}
